@@ -7,7 +7,6 @@ yfinance
 requests
 yfinance
 pystan
-fbprophet
 plotly
 matplotlib
 keras
