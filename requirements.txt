@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+pandas-datareader
+sklearn
+yfinance
+requests
+yfinance
+plotly
+matlplotlib
+keras
