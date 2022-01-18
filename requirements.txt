@@ -9,5 +9,5 @@ yfinance
 pystan
 fbprophet
 plotly
-matlplotlib
+matplotlib
 keras
