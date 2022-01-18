@@ -6,7 +6,6 @@ sklearn
 yfinance
 requests
 yfinance
-pystan
 plotly
 matplotlib
-keras
+
