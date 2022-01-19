@@ -54,6 +54,7 @@ data_training_array=scaler.fit_transform(data_training)
 
 
 
+
 #LOAD MODEL
 
 model = load_model('keras_model.h5')
