@@ -8,8 +8,8 @@ import plotly.express as px
 from keras.models import load_model
 import streamlit as st
 
-start = '1999-01-01'
-end='2029-01-01'
+start = '2022-01-01'
+end='2023-01-01'
 
 st.title('stock trend prediction')
 user_input =st.text_input('enter stock name','AAPL')
